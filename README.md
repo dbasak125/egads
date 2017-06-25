@@ -10,7 +10,7 @@ value with the actual value at time *t*. EGADS automatically determines threshol
 variety of contexts to detect outliers and change points in time-series that can have a various seasonal, trend and noise components.
 
 How to get started
-===========================
+============================
 
 EGADS was designed as a self contained library that has a collection of time-series and anomaly detection models
 that are applicable to a wide-range of use cases. To compile the library into a single jar, clone the repo and type the following:
